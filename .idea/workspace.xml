@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65fbfb23-9b75-4370-8580-4951a8613fe7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chat/src/main/java/com/sam/chat/config/WebSocketEventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat/src/main/java/com/sam/chat/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat/src/main/java/com/sam/chat/config/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
